@@ -1,4 +1,4 @@
-# Bootstrap--Restaurant-Website
+# Foodies Hub--React-Restaurant-Website
 
 ## About the Project:
 1. This is the frontend of a restaurant website designed completely using react (create-react-app).
@@ -64,11 +64,11 @@ App becomes ready to be deployed!
 
 ## Screenshots:
 
-![home](https://user-images.githubusercontent.com/64154442/88485972-f8d5e480-cf97-11ea-95a8-39474ddcfe1c.JPG)
-![about](https://user-images.githubusercontent.com/64154442/88485999-12772c00-cf98-11ea-85ba-9e69ac863727.png)
-![dish](https://user-images.githubusercontent.com/64154442/88486007-1b67fd80-cf98-11ea-875b-167607aba372.JPG)
-![dish detail](https://user-images.githubusercontent.com/64154442/88486008-1c009400-cf98-11ea-95c9-b5ed6d7c1e1d.JPG)
-![contact](https://user-images.githubusercontent.com/64154442/88486012-202cb180-cf98-11ea-8f01-a0ddadffaba1.png)
+![home](https://user-images.githubusercontent.com/64154442/160348017-bbe062c1-5c59-463c-a25c-79f49e2127a7.png)
+![about](https://user-images.githubusercontent.com/64154442/160348044-f6c8791a-a6a2-450c-8245-6d5c5f8d424c.png)
+![dish](https://user-images.githubusercontent.com/64154442/160348062-6f4ef59f-1f4c-401e-9d4d-34b2ec08ac9e.png)
+![dish detail](https://user-images.githubusercontent.com/64154442/160348079-c3f01f9a-702a-47aa-b6e0-3de9dddba17e.png)
+![contact](https://user-images.githubusercontent.com/64154442/160348088-92dbfd74-8625-470d-9a7c-fece77e9dd6f.png)
 
 
 #### ```THANK YOU```
